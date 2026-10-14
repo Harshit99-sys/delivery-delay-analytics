@@ -1,0 +1,86 @@
+Feature,Importance
+numeric__Days for shipment (scheduled),0.9895205521961755
+numeric__order_month_num,0.0034928864981705926
+numeric__order_weekday_num,0.0023371545921648212
+categorical__Order Region_Southern Europe,0.0009595933912420917
+categorical__Order Region_South America,0.0006868530112533861
+categorical__Order Region_Canada,0.0004137938417438941
+categorical__Market_USCA,0.0003705272576108161
+categorical__Order Region_Caribbean,0.00034498158848780293
+categorical__Market_Pacific Asia,0.00030377062114152865
+categorical__Order Region_Western Europe,0.000273169136702653
+categorical__Market_Africa,0.00020761700303823918
+categorical__Category Name_Cleats,0.00020680127073735574
+categorical__Order Region_West of USA ,0.00017816203255625632
+categorical__Order Region_Eastern Europe,0.0001659745376989785
+categorical__Order Region_East of USA,0.00015213348683561337
+categorical__Order Region_South Asia,0.00015073690362019581
+categorical__Category Name_Camping & Hiking,0.0001359676823740489
+categorical__Order Region_Central Africa,9.932494844640849e-05
+categorical__Shipping Mode_First Class,0.0
+categorical__Shipping Mode_Same Day,0.0
+categorical__Shipping Mode_Standard Class,0.0
+categorical__Order Region_Northern Europe,0.0
+categorical__Order Region_Oceania,0.0
+categorical__Order Region_Eastern Asia,0.0
+categorical__Order Region_North Africa,0.0
+categorical__Shipping Mode_Second Class,0.0
+categorical__Order Region_Central America,0.0
+categorical__Order Region_Central Asia,0.0
+categorical__Order Region_East Africa,0.0
+categorical__Order Region_West Asia,0.0
+categorical__Category Name_Accessories,0.0
+categorical__Category Name_As Seen on  TV!,0.0
+categorical__Category Name_Baby ,0.0
+categorical__Category Name_Baseball & Softball,0.0
+categorical__Order Region_US Center ,0.0
+categorical__Order Region_Southern Africa,0.0
+categorical__Order Region_Southeast Asia,0.0
+categorical__Category Name_Boxing & MMA,0.0
+categorical__Category Name_Books ,0.0
+categorical__Category Name_Cameras ,0.0
+categorical__Category Name_CDs ,0.0
+categorical__Category Name_Cardio Equipment,0.0
+categorical__Category Name_Children's Clothing,0.0
+categorical__Category Name_Computers,0.0
+categorical__Category Name_Consumer Electronics,0.0
+categorical__Category Name_Crafts,0.0
+categorical__Category Name_DVDs,0.0
+categorical__Category Name_Electronics,0.0
+categorical__Category Name_Fishing,0.0
+categorical__Category Name_Fitness Accessories,0.0
+categorical__Category Name_Basketball,0.0
+categorical__Order Region_West Africa,0.0
+categorical__Order Region_South of  USA ,0.0
+categorical__Category Name_Golf Apparel,0.0
+categorical__Category Name_Girls' Apparel,0.0
+categorical__Category Name_Garden,0.0
+categorical__Category Name_Golf Bags & Carts,0.0
+categorical__Category Name_Health and Beauty,0.0
+categorical__Category Name_Golf Balls,0.0
+categorical__Category Name_Golf Gloves,0.0
+categorical__Category Name_Golf Shoes,0.0
+categorical__Category Name_Kids' Golf Clubs,0.0
+categorical__Category Name_Lacrosse,0.0
+categorical__Category Name_Men's Clothing,0.0
+categorical__Category Name_Men's Footwear,0.0
+categorical__Category Name_Men's Golf Clubs,0.0
+categorical__Category Name_Hockey,0.0
+categorical__Category Name_Hunting & Shooting,0.0
+categorical__Category Name_Indoor/Outdoor Games,0.0
+categorical__Category Name_Shop By Sport,0.0
+categorical__Category Name_Pet Supplies,0.0
+categorical__Category Name_Music,0.0
+categorical__Category Name_Soccer,0.0
+categorical__Category Name_Toys,0.0
+categorical__Category Name_Sporting Goods,0.0
+categorical__Category Name_Strength Training,0.0
+categorical__Category Name_Tennis & Racquet,0.0
+categorical__Category Name_Water Sports,0.0
+categorical__Category Name_Video Games,0.0
+categorical__Category Name_Trade-In,0.0
+categorical__Category Name_Women's Apparel,0.0
+categorical__Category Name_Women's Golf Clubs,0.0
+categorical__Category Name_Women's Clothing,0.0
+categorical__Market_LATAM,0.0
+categorical__Market_Europe,0.0
